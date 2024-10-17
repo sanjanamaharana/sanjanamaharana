@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjanamaharana
+- 👋 Hi, I’m sanjanamaharana
 - 👀 I’m interested in code
 - 🌱 I’m currently learning MCA.
 - 💞️ I’m looking to collaborate on gsoc.
