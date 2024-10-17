@@ -1,3 +1,4 @@
+it's my 1st  repository.
 - 👋 Hi, I’m sanjanamaharana
 - 👀 I’m interested in code
 - 🌱 I’m currently learning MCA.
