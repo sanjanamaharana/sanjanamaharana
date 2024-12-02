@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanamaharana&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanamaharana" /> </p>
 
-- 📫 How to reach me **sanjana.khusi.sanjana@gmail.com**
-
-- ⚡ Fun fact **i am funny**
+- 📫 reach me **sanjana.khusi.sanjana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
